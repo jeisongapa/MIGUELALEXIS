@@ -958,7 +958,7 @@ blockquote {
   position: fixed;
   width: 50%;
   height: 50px;
-  bottom: 1px;
+  bottom: 15px;
   right: 1px;
   background-color: #25d366;
   color: #fff;
@@ -4292,7 +4292,7 @@ blockquote {
   position: fixed;
   width: 50%;
   height: 50px;
-  bottom: 1px;
+  bottom: 15px;
   right: 1px;
   background-color: #25d366;
   color: #fff;
